@@ -1,1 +1,2 @@
 # Contest-Management-System-oops-
+Developed a C++ application utilizing Object-Oriented Programming principles to manage and organize contests in a classroom environment. Implemented dynamic memory allocation, file handling, and a user authentication system to handle contestant data for coding, chess, and debate competitions. The system features menu-driven data entry, modification, and retrieval, as well as contest initiation, scoring, leaderboard generation, and winner declaration.
